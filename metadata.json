@@ -1,0 +1,5 @@
+{
+  "name": "FraudGuard AI",
+  "description": "An expert-level interactive guide and dashboard for credit card fraud detection using anomaly detection techniques.",
+  "requestFramePermissions": []
+}
